@@ -3,7 +3,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :telescope: Machine Learning Engineer specializing in Data Science and Computer Vision.
+- :telescope: Data Scientist with MLOps
 - :notebook_with_decorative_cover: Certified in 'Deep Learning Specialization', 'AI for Medicine' and 'Marketing & Retail Analytics - Advanced'
 - 	:writing_hand: Paper: Image dehazing using variational mode decomposition [Link](https://ieeexplore.ieee.org/document/8299748)
 - 	:writing_hand: Paper: Performance evaluation of sparse banded filter matrices using content based image retrieval [Link](https://www.researchgate.net/publication/303733938_Performance_evaluation_of_sparse_banded_filter_matrices_using_content_based_image_retrieval)
